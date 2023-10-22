@@ -4,7 +4,7 @@ It's a great book to learn the basis of computer programming.
 
 This books teachs us about the main foundations of computer science, including computer thinking, numbers and types, loops, decisions (if/else), vector, matrices, functions, memory, and more.
 
-![Alt text] (./book.jpg)
+![Book cover] (book.jpg)
 
 # Motivation
 
